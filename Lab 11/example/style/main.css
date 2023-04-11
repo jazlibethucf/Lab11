@@ -1,3 +1,7 @@
+.p {
+  color: blue;
+}
+
 @media screen and (max-width: 800px) {
   /*grid 1 col*/
   .grid {
@@ -38,8 +42,5 @@
 p {
   font-family: "Roboto";
   font-size: 32px;
-}
-
-.p {
-  color: blue;
+  color: yellow;
 }/*# sourceMappingURL=main.css.map */
