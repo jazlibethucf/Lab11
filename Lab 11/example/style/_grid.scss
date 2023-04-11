@@ -16,7 +16,7 @@ $bgcol:#5e0f02;
   .grid {
   display: grid;
   grid-template-columns: auto auto;
-  background-color: $bgcol + #101010;
+  background-color:$bgcol;
   padding: 10px;
   grid-gap:10px;
   }
@@ -27,7 +27,7 @@ $bgcol:#5e0f02;
   .grid {
     display: grid;
     grid-template-columns: auto auto auto;
-    background-color: $bgcol + #202020;
+    background-color: $bgcol;
     padding: 10px;
     grid-gap:10px;
   }
@@ -45,5 +45,4 @@ $bgcol:#5e0f02;
 p{
   font-family:'Roboto';
   font-size: 32px;
-  color: aqua;
 }
