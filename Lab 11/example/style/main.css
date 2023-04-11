@@ -1,4 +1,4 @@
-.p {
+p {
   color: blue;
 }
 
@@ -43,4 +43,5 @@ p {
   font-family: "Roboto";
   font-size: 32px;
   color: yellow;
+  margin: 50%;
 }/*# sourceMappingURL=main.css.map */
