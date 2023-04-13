@@ -2,19 +2,19 @@
 
 /*grid styling*/
 .grid-item {
-    background-color: rgb(158, 219, 108);
+    background-color: $col1;
     border: 5px solid white;
-    color:rgb(20, 92, 44);
-    padding:30px;
+    color: $col2;
+    padding: $padgi;
 }
 
 .grid {
     font-size: 15pt;
-    background-color: rgb(112, 143, 86);
+    background-color: $col3;
     border-style: solid;
     border-width: 4px;
     border-color: rgb(0, 0, 0);
     gap: 20px;
     height: 100%;
-    padding: 20px;
+    padding: $padg;
 }

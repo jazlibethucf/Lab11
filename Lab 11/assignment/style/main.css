@@ -1,4 +1,7 @@
-/*This partial is for attribute values in this variables file*/ /*This partial is for the structure of my grid.*/
+/*This partial is for attribute values in this variables file*/
+/*colors*/
+/*padding*/
+/*This partial is for the structure of my grid.*/
 /*Creating the grid container*/
 .grid {
   display: grid;
