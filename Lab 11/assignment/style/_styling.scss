@@ -2,9 +2,12 @@
 
 /*grid styling*/
 .grid-item {
-    font-size: 24pt;
+    font-size: 15pt;
     background-color: rgb(158, 219, 108);
-    color:white;
-    border-style: dotted;
-    border-width: 8pt;
+    color:rgb(171, 125, 180);
+    border-style: solid;
+    border-width: 4pt;
+    border-color: rgb(0, 0, 0);
+    gap: 10px;
+    padding: 20px;
 }
