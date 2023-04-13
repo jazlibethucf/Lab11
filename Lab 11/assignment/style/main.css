@@ -45,12 +45,17 @@
 /*This partial is for styling*/
 /*grid styling*/
 .grid-item {
-  font-size: 15pt;
   background-color: rgb(158, 219, 108);
-  color: rgb(171, 125, 180);
+  border: 5px solid white;
+  color: rgb(20, 92, 44);
+}
+
+.grid {
+  font-size: 15pt;
+  background-color: rgb(112, 143, 86);
   border-style: solid;
-  border-width: 4pt;
+  border-width: 4px;
   border-color: rgb(0, 0, 0);
-  gap: 10px;
-  padding: 20px;
+  gap: 20px;
+  padding: 50px;
 }/*# sourceMappingURL=main.css.map */
