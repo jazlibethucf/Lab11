@@ -1,2 +1,30 @@
 /*This partial is for the structure of my grid.*/
 
+.grid-item {
+    display:grid;
+    /*First square styling*/
+    .s1 {
+        grid-template-columns: auto auto;
+        grid-template-rows: auto auto;
+    }
+    /*First rectangle styling*/
+    .r1 {
+        grid-template-columns: auto auto;
+        grid-template-rows: auto;
+    }
+    /*Second rectangle styling*/
+    .r2 {
+        grid-template-columns: auto;
+        grid-template-rows: auto auto auto;
+    }
+    /*Second square styling*/
+    .s3 {
+        grid-template-columns: auto;
+        grid-template-rows: auto;
+    }
+    /*Third square styling*/
+    .s4 {
+        grid-template-columns: auto;
+        grid-template-rows: auto;
+    }
+}
