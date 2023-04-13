@@ -1,6 +1,9 @@
 /*This partial is for attribute values in this variables file*/ /*This partial is for the structure of my grid.*/
-.grid-item {
+.grid {
   display: grid;
+}
+
+.grid-item {
   /*First square styling*/
   /*First rectangle styling*/
   /*Second rectangle styling*/
@@ -26,4 +29,14 @@
 .grid-item .s4 {
   grid-template-columns: auto;
   grid-template-rows: auto;
+}
+
+/*This partial is for styling*/
+/*grid styling*/
+.grid-item {
+  font-size: 24pt;
+  background-color: rgb(158, 219, 108);
+  color: white;
+  border-style: dotted;
+  border-width: 8pt;
 }/*# sourceMappingURL=main.css.map */

@@ -1,7 +1,11 @@
 /*This partial is for the structure of my grid.*/
 
-.grid-item {
+.grid {
     display:grid;
+
+}
+
+.grid-item {
     /*First square styling*/
     .s1 {
         grid-template-columns: auto auto;
